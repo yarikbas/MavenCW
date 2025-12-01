@@ -3,7 +3,6 @@ package com.org.insurance.ui;
 import com.org.insurance.domain.Derivative;
 import com.org.insurance.domain.InsuranceCalculator;
 import com.org.insurance.domain.Obligation;
-import com.org.insurance.ui.ConsolePrinter;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

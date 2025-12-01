@@ -5,47 +5,84 @@ import com.org.insurance.ui.command.*;
 
 import java.util.*;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class InsuranceMenu {
+
+    private static final Logger log = LogManager.getLogger(InsuranceMenu.class);
 
     private final List<Derivative> derivatives = new ArrayList<>();
     private final Scanner in = new Scanner(System.in);
     private final Map<String, Command> commands = new HashMap<>();
-    private boolean running;
 
     public InsuranceMenu() {
         registerBuiltInCommands();
+        log.info("Ініціалізовано InsuranceMenu, зареєстровано {} команд(и)", commands.size());
     }
 
     public void run() {
-        running = true;
+        log.info("Початок роботи меню страхування");
         System.out.println("Введіть назву команди (наприклад, 'add'). 'help' — описи, 'exit' — вихід.");
-        while (running) {
+
+        while (true) {
             showShortMenu();
             System.out.print("> ");
+
             String line = in.hasNextLine() ? in.nextLine().trim() : null;
-            if (line == null) break;
-            if (line.isEmpty()) continue;
-            executeCommand(line);
+
+            if (line == null) {
+                log.info("Вхідний потік команд завершено (line == null), вихід із меню");
+                break;
+            }
+
+            if (line.isEmpty()) {
+                continue;
+            }
+
+            String cmdText = line.toLowerCase(Locale.ROOT);
+
+            if (cmdText.equals("exit") || cmdText.equals("quit")) {
+                log.info("Користувач обрав вихід із програми (команда '{}')", cmdText);
+                System.out.println("Завершення роботи...");
+                break;
+            }
+
+            executeCommand(cmdText);
         }
+
+        log.info("Завершення роботи меню страхування");
     }
 
     public void executeCommand(String input) {
         String s = input.trim().toLowerCase(Locale.ROOT);
+        log.info("Отримано команду від користувача: '{}'", s);
 
-        if (s.equals("help")) { showHelp(); return; }
-        if (s.equals("exit") || s.equals("quit")) { exit(); return; }
+        if (s.equals("help")) {
+            showHelp();
+            return;
+        }
 
         Command cmd = commands.get(s);
         if (cmd == null) {
+            log.warn("Користувач ввів невідому команду: '{}'", s);
             System.out.println("Невідома команда. Введіть слово з переліку або 'help'.");
             return;
         }
-        cmd.execute(in, derivatives);
+
+        try {
+            log.info("Виконання команди '{}'", s);
+            cmd.execute(in, derivatives);
+        } catch (Exception e) {
+            log.error("Помилка при виконанні команди '{}'", s, e);
+            System.out.println("Сталася помилка під час виконання команди. Деталі дивіться в логах.");
+        }
     }
 
     public void showHelp() {
         if (commands.isEmpty()) {
             System.out.println("Команди не зареєстровані.");
+            log.warn("showHelp викликано, але commands порожній");
             return;
         }
         System.out.println("ОПИС КОМАНД:");
@@ -56,22 +93,18 @@ public class InsuranceMenu {
         System.out.println("Доступні також: help, exit");
     }
 
-    public void exit() {
-        running = false;
-        System.out.println("Завершення роботи...");
-    }
-
     private void showShortMenu() {
         if (commands.isEmpty()) {
-            System.out.println("[немає зареєстрованих команд]");
+            System.out.println("Команди не зареєстровані.");
+            log.warn("showShortMenu викликано, але commands порожній");
             return;
         }
-        System.out.println("\nКОМАНДИ (вводьте слово):");
-        int i = 1;
-        for (String key : commands.keySet()) {
-            System.out.printf("%2d) %s%n", i++, key);
+        System.out.print("Доступні команди: ");
+        System.out.print("help, exit");
+        for (String k : commands.keySet()) {
+            System.out.print(", " + k);
         }
-        System.out.println("help — описи,  exit — вихід");
+        System.out.println();
     }
 
     private void registerBuiltInCommands() {

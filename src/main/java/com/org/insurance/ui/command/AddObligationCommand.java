@@ -29,8 +29,7 @@ public class AddObligationCommand implements Command {
 
         if (d.getObligations() == null) {
             try {
-                d.getClass().getMethod("setObligations", List.class)
-                        .invoke(d, new ArrayList<Obligation>());
+                d.getClass().getMethod("setObligations", List.class).invoke(d, new ArrayList<Obligation>());
             } catch (Exception e) {
                 System.out.println("[Увага] Список зобов'язань не ініціалізований у Derivative. Ініціалізуйте його у конструкторі або додайте setObligations(List).");
                 return;
@@ -65,7 +64,11 @@ public class AddObligationCommand implements Command {
     }
 
     private int readInt(Scanner in) {
-        try { return Integer.parseInt(in.nextLine().trim()); }
-        catch (Exception e) { return -1; }
+        try {
+            return Integer.parseInt(in.nextLine().trim());
+        }
+        catch (Exception e) {
+            return -1;
+        }
     }
 }

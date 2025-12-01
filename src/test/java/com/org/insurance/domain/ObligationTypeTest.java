@@ -1,12 +1,9 @@
 package com.org.insurance.domain;
 
-import com.org.insurance.domain.*;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.EnumSource;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -24,6 +21,7 @@ class ObligationTypeTest {
     @BeforeEach
     void setUp() {
         // Перехоплюємо System.out, щоб протестувати метод printAll
+        outContent.reset();
         System.setOut(new PrintStream(outContent));
     }
 
@@ -35,19 +33,10 @@ class ObligationTypeTest {
     }
 
     /**
-     * Допоміжний метод, який готує "фейковий" ввід для Scanners.
+     * Допоміжний метод, який готує "фейковий" ввід для Scanner-ів.
      * Ми передаємо коректні числа, щоб цикли while(true) у класі Obligation не зациклились.
      */
     private void mockSystemIn() {
-        // Послідовність даних:
-        // 1. Name (String)
-        // 2. InsuredAmount (Double)
-        // 3. Factor (Double)
-        // 4. Period (Int)
-        // 5. Rate (Double)
-        // 6. Probability (Double)
-        // 7. MaxCost (Double)
-        // 8, 9, 10... Specific fields (Strings/Numbers) - передаємо прості значення
         String safeInput = """
                 TestObligation
                 1000.0
@@ -65,28 +54,26 @@ class ObligationTypeTest {
         System.setIn(new ByteArrayInputStream(safeInput.getBytes()));
     }
 
-    @ParameterizedTest
-    @EnumSource(ObligationType.class)
+    @Test
     @DisplayName("Кожен тип ENUM має створювати правильний клас об'єкта")
-    void testCreateMethodFactory(ObligationType type) {
-        // Підготовка вводу перед створенням, бо конструктор почне читати дані
-        mockSystemIn();
+    void testCreateMethodFactory() {
+        for (ObligationType type : ObligationType.values()) {
+            // Підготовка вводу перед створенням, бо конструктор почне читати дані
+            mockSystemIn();
 
-        Obligation obligation = type.create();
+            Obligation obligation = type.create();
+            assertNotNull(obligation, "Obligation не має бути null для " + type);
 
-        assertNotNull(obligation);
-
-        // Перевіряємо відповідність класів
-        switch (type) {
-            case AUTO -> assertTrue(obligation instanceof AutoObligation);
-            case BUSINESS -> assertTrue(obligation instanceof BusinessObligation);
-            case HEALTH -> assertTrue(obligation instanceof HealthObligation);
-            case LIABILITY -> assertTrue(obligation instanceof LiabilityObligation);
-            case LIFE -> assertTrue(obligation instanceof LifeObligation);
-            // Якщо Property або Travel ще не створені, ці рядки будуть помилкою компіляції,
-            // але виходячи з коду Enum, вони мають існувати.
-            case PROPERTY -> assertTrue(obligation instanceof PropertyObligation);
-            case TRAVEL -> assertTrue(obligation instanceof TravelObligation);
+            // Перевіряємо відповідність класів
+            switch (type) {
+                case AUTO -> assertTrue(obligation instanceof AutoObligation);
+                case BUSINESS -> assertTrue(obligation instanceof BusinessObligation);
+                case HEALTH -> assertTrue(obligation instanceof HealthObligation);
+                case LIABILITY -> assertTrue(obligation instanceof LiabilityObligation);
+                case LIFE -> assertTrue(obligation instanceof LifeObligation);
+                case PROPERTY -> assertTrue(obligation instanceof PropertyObligation);
+                case TRAVEL -> assertTrue(obligation instanceof TravelObligation);
+            }
         }
     }
 
@@ -145,8 +132,8 @@ class ObligationTypeTest {
     void testCreateByIndexInvalid() {
         ObligationType[] menu = ObligationType.values();
 
-        assertNull(ObligationType.createByIndex(menu, 0)); // Менше 1
-        assertNull(ObligationType.createByIndex(menu, -5)); // Від'ємний
+        assertNull(ObligationType.createByIndex(menu, 0));              // Менше 1
+        assertNull(ObligationType.createByIndex(menu, -5));             // Від'ємний
         assertNull(ObligationType.createByIndex(menu, menu.length + 1)); // Більше довжини
     }
 }

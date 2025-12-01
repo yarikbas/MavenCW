@@ -27,10 +27,6 @@ public final class ConsolePrinter {
         }
     }
 
-    /**
-     * Виводить список деривативів з детальною інформацією про кожне зобов'язання.
-     * ВИПРАВЛЕНО: Використовує obligationLineTypeRiskId для явного друку "risk=".
-     */
     public static void printDerivativesWithObligations(List<Derivative> derivatives) {
         List<Derivative> list = safeList(derivatives);
         if (list.isEmpty()) {
@@ -75,10 +71,6 @@ public final class ConsolePrinter {
         return name + " (" + id + ")";
     }
 
-    /**
-     * Форматує заголовок деривативу.
-     * ВИПРАВЛЕНО: Використовує formatObligationCount для коректного відмінювання.
-     */
     private static String derivativeHeader(Derivative d) {
         int count = Optional.ofNullable(d)
                 .map(Derivative::getObligations)
@@ -86,9 +78,6 @@ public final class ConsolePrinter {
         return derivativeLine(d) + " — " + formatObligationCount(count);
     }
 
-    /**
-     * Допоміжний метод для коректного відмінювання слова "зобов'язання"
-     */
     private static String formatObligationCount(int count) {
         if (count == 1) return "1 зобов'язання";
         // Якщо ви хочете, щоб 2, 3, 4 також мали форму "зобов'язання"
@@ -96,9 +85,6 @@ public final class ConsolePrinter {
         return count + " зобов'язань";
     }
 
-    /**
-     * Форматує рядок зобов'язання: Назва (Тип) | risk=... | id=...
-     */
     private static String obligationLineTypeRiskId(Obligation o) {
         if (o == null) return "—";
         // Використовуємо ім'я облігації, що має допомогти з проходженням тесту

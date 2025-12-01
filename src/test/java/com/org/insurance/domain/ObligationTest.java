@@ -1,6 +1,6 @@
 package com.org.insurance.domain;
 
-import com.org.insurance.domain.Obligation;
+import lombok.Getter;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayInputStream;
@@ -17,6 +17,7 @@ class ObligationTest {
     /**
      * Тестова конкретна реалізація абстрактного Obligation.
      */
+    @Getter
     private static class TestObligation extends Obligation {
 
         private String specificField;
@@ -42,9 +43,6 @@ class ObligationTest {
             }
         }
 
-        public String getSpecificField() {
-            return specificField;
-        }
     }
 
     @Test

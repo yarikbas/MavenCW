@@ -1,7 +1,6 @@
 package com.org.insurance.ui.command;
 
 import com.org.insurance.domain.Derivative;
-import com.org.insurance.ui.command.Command;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

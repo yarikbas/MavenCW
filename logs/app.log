@@ -1,0 +1,868 @@
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 20:02:50 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit10817570626817083997\portfolio.bin'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit10817570626817083997\portfolio.bin'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=b914c6c9-80db-4a38-a45b-7c59a5f2d1bf у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit8364405682397083648\portfolio.txt'
+2025-12-01 20:02:50 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit8364405682397083648\portfolio.txt'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit10328029509139729186\ghost.bin'
+2025-12-01 20:02:51 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\junit10328029509139729186\ghost.bin'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit15421889488350628858\data.bin'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit15421889488350628858\data.bin'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit15421889488350628858\data.bin'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\junit15421889488350628858\data.bin', id=87277d94-e079-4579-8208-0f71d1293c6c
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=54c30244-a1a3-4bd9-ba07-dccd9d18f7d7 у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit14030258104454639739\empty.txt'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit14030258104454639739\empty.txt'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit9277139429975292371\bad_data.dat'
+2025-12-01 20:02:51 [main] ERROR com.org.insurance.io.FileManager - Не вдалося завантажити файл деривативу 'C:\Users\user\AppData\Local\Temp\junit9277139429975292371\bad_data.dat'
+java.io.StreamCorruptedException: invalid stream header: 54686973
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:916) ~[?:?]
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:386) ~[?:?]
+	at com.org.insurance.io.FileManager.loadDerivative(FileManager.java:35) [classes/:?]
+	at com.org.insurance.io.FileManagerTest.lambda$testLoadInvalidContent$0(FileManagerTest.java:107) [test-classes/:?]
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55) [junit-jupiter-api-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37) [junit-jupiter-api-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3082) [junit-jupiter-api-5.8.1.jar:5.8.1]
+	at com.org.insurance.io.FileManagerTest.testLoadInvalidContent(FileManagerTest.java:106) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725) [junit-platform-commons-1.8.1.jar:1.8.1]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66) [junit-jupiter-engine-5.8.1.jar:5.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) [junit-platform-engine-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) [junit-platform-launcher-1.8.1.jar:1.8.1]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:66) [junit5-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit1499507583188731439\portfolio.dat'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit1499507583188731439\portfolio.dat'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit1499507583188731439\portfolio.dat'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\junit1499507583188731439\portfolio.dat', id=6400fd8b-828c-49ed-9a5f-9ceccf1524a2
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=9fe6071f-ce2f-4606-9d50-e1fd2ad805c7 у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit2583125981053080189\report.txt'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit2583125981053080189\report.txt'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit9196465153538452298\folder1\folder2\data.bin'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit9196465153538452298\folder1\folder2\data.bin'
+2025-12-01 20:02:51 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit14919737695744825866\ghost.dat'
+2025-12-01 20:02:51 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\junit14919737695744825866\ghost.dat'
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 21:07:59 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:07:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit14610811120452946380\portfolio.bin'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit14610811120452946380\portfolio.bin'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=2e137116-9305-479b-86d3-3c4d1988ef8f у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit14031230365502430636\portfolio.txt'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit14031230365502430636\portfolio.txt'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit409535227990395708\ghost.bin'
+2025-12-01 21:08:00 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\junit409535227990395708\ghost.bin'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit7336554288303141446\data.bin'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit7336554288303141446\data.bin'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit7336554288303141446\data.bin'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\junit7336554288303141446\data.bin', id=72199c1f-e23c-462a-a00e-d6dce772c3d8
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=6cd93034-80c8-4b21-809c-f1212429e6c7 у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit1157539423782268719\empty.txt'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit1157539423782268719\empty.txt'
+2025-12-01 21:08:00 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit7489354831690703475\bad_data.dat'
+2025-12-01 21:08:00 [main] ERROR com.org.insurance.io.FileManager - Не вдалося завантажити файл деривативу 'C:\Users\user\AppData\Local\Temp\junit7489354831690703475\bad_data.dat'
+java.io.StreamCorruptedException: invalid stream header: 54686973
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:916) ~[?:?]
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:386) ~[?:?]
+	at com.org.insurance.io.FileManager.loadDerivative(FileManager.java:35) [classes/:?]
+	at com.org.insurance.io.FileManagerTest.lambda$testLoadInvalidContent$0(FileManagerTest.java:107) [test-classes/:?]
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:53) [junit-jupiter-api-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:35) [junit-jupiter-api-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3083) [junit-jupiter-api-5.9.3.jar:5.9.3]
+	at com.org.insurance.io.FileManagerTest.testLoadInvalidContent(FileManagerTest.java:106) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727) [junit-platform-commons-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:217) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:213) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:138) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) [junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) [junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) [junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:66) [junit5-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit1490645981727172587\portfolio.dat'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit1490645981727172587\portfolio.dat'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit1490645981727172587\portfolio.dat'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\junit1490645981727172587\portfolio.dat', id=50567e0c-899c-442c-b42d-8a4c9bce79ed
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=af907a2f-cb73-4861-a3ce-fccd85e76366 у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit1879667441184360555\report.txt'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit1879667441184360555\report.txt'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit7632013801970048265\folder1\folder2\data.bin'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit7632013801970048265\folder1\folder2\data.bin'
+2025-12-01 21:08:01 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\junit15602594309525452170\ghost.dat'
+2025-12-01 21:08:01 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\junit15602594309525452170\ghost.dat'
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 21:16:36 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:16:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit15242876184037704356\portfolio.bin'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit15242876184037704356\portfolio.bin'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=970e3553-87d0-434d-ba36-d700688237e7 у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit12982573271254983643\portfolio.txt'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit12982573271254983643\portfolio.txt'
+2025-12-01 21:16:37 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'definitely-no-such-file-123456789.der'
+2025-12-01 21:16:37 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'definitely-no-such-file-123456789.der'
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=2e4e9193-8e68-4556-8448-1b0611eaafaf у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-1318713461148732928\empty.txt'
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-1318713461148732928\empty.txt'
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\fm-test-5098143679412936040\derivative.bin'
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\fm-test-5098143679412936040\derivative.bin'
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-5098143679412936040\derivative.bin'
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\fm-test-5098143679412936040\derivative.bin', id=f5c98c0a-c227-46b8-a2f8-0010a6b539bd
+2025-12-01 21:16:38 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-8370047665999279556\no-such-file.bin'
+2025-12-01 21:16:38 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\fm-test-8370047665999279556\no-such-file.bin'
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 21:22:17 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:17 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit17504151507970162024\portfolio.bin'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit17504151507970162024\portfolio.bin'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=a03f2a51-cb11-4c07-8c2c-7dc4cf462d90 у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit17341287848716099418\portfolio.txt'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit17341287848716099418\portfolio.txt'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'definitely-no-such-file-123456789.der'
+2025-12-01 21:22:18 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'definitely-no-such-file-123456789.der'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=bc8fc05e-a1a0-4fd0-8164-71fa64b31da4 у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-1187122791787063735\empty.txt'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-1187122791787063735\empty.txt'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\fm-test-3184842494136002787\derivative.bin'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\fm-test-3184842494136002787\derivative.bin'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-3184842494136002787\derivative.bin'
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\fm-test-3184842494136002787\derivative.bin', id=f7ca2fdd-3c2e-472a-8667-ad418bdefdb3
+2025-12-01 21:22:18 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-10074745422241668487\no-such-file.bin'
+2025-12-01 21:22:18 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\fm-test-10074745422241668487\no-such-file.bin'
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 21:22:36 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:36 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\junit4076813870886683877\portfolio.bin'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\junit4076813870886683877\portfolio.bin'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=674ad5ea-44d2-4e78-b1a5-a9958aa2866c у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit5007218935491154555\portfolio.txt'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit5007218935491154555\portfolio.txt'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'definitely-no-such-file-123456789.der'
+2025-12-01 21:22:37 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'definitely-no-such-file-123456789.der'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Експорт деривативу id=d270645b-9ce5-4bcc-9e1e-a90b36e90609 у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-18153704757039062716\empty.txt'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно експортовано у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-18153704757039062716\empty.txt'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Спроба зберегти дериватив у бінарний файл 'C:\Users\user\AppData\Local\Temp\fm-test-15795445842838792139\derivative.bin'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно збережено у файл 'C:\Users\user\AppData\Local\Temp\fm-test-15795445842838792139\derivative.bin'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-15795445842838792139\derivative.bin'
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Дериватив успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\fm-test-15795445842838792139\derivative.bin', id=f15f0b04-052d-439e-92dc-3cc1cc568190
+2025-12-01 21:22:37 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-11981281176914125161\no-such-file.bin'
+2025-12-01 21:22:37 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\fm-test-11981281176914125161\no-such-file.bin'
+2025-12-01 21:22:46 [main] INFO  com.org.insurance.Main - === Старт програми MavenCW ===
+2025-12-01 21:22:46 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:22:46 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:23:34 [main] INFO  com.org.insurance.Main - === Старт програми MavenCW ===
+2025-12-01 21:23:34 [main] INFO  com.org.insurance.ui.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:23:34 [main] INFO  com.org.insurance.ui.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:23:42 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'elp'
+2025-12-01 21:23:42 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'elp'
+2025-12-01 21:23:46 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 21:23:57 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'create'
+2025-12-01 21:23:57 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'create'
+2025-12-01 21:24:08 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 21:24:08 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'add'
+2025-12-01 21:25:23 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:25:23 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:25:39 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 21:25:39 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'load'
+2025-12-01 21:26:13 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:/Users/user/OneDrive/Desktop/деревативи/svetlana.bin'
+2025-12-01 21:26:13 [main] ERROR com.org.insurance.io.FileManager - Не вдалося завантажити файл деривативу 'C:/Users/user/OneDrive/Desktop/деревативи/svetlana.bin'
+java.io.InvalidClassException: com.org.insurance.domain.HealthObligation; local class incompatible: stream classdesc serialVersionUID = -1684638975501305495, local class serialVersionUID = 5962560991656077785
+	at java.base/java.io.ObjectStreamClass.initNonProxy(ObjectStreamClass.java:496) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readNonProxyDesc(ObjectInputStream.java:1960) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1818) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2134) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1653) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:495) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:453) ~[?:?]
+	at java.base/java.util.ArrayList.readObject(ArrayList.java:982) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at java.base/java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:976) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2335) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2166) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1653) ~[?:?]
+	at java.base/java.io.ObjectInputStream$FieldValues.<init>(ObjectInputStream.java:2513) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2360) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2166) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1653) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:495) ~[?:?]
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:453) ~[?:?]
+	at com.org.insurance.io.FileManager.loadDerivative(FileManager.java:37) [classes/:?]
+	at com.org.insurance.ui.command.LoadFromFileCommand.execute(LoadFromFileCommand.java:29) [classes/:?]
+	at com.org.insurance.ui.InsuranceMenu.executeCommand(InsuranceMenu.java:75) [classes/:?]
+	at com.org.insurance.ui.InsuranceMenu.run(InsuranceMenu.java:51) [classes/:?]
+	at com.org.insurance.Main.main(Main.java:15) [classes/:?]
+2025-12-01 21:26:24 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:26:24 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:26:55 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 21:26:55 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'load'
+2025-12-01 21:27:08 [main] INFO  com.org.insurance.io.FileManager - Спроба завантажити дериватив із файлу 'C:/Users/user/OneDrive/Desktop/деревативи/svetlana'
+2025-12-01 21:27:08 [main] WARN  com.org.insurance.io.FileManager - Файл деривативу не знайдено: 'C:/Users/user/OneDrive/Desktop/деревативи/svetlana'
+2025-12-01 21:27:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:27:18 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:29:27 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 21:29:27 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'add'
+2025-12-01 21:30:32 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:30:32 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:30:49 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'find'
+2025-12-01 21:30:49 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'find'
+2025-12-01 21:31:04 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'find'
+2025-12-01 21:31:04 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'find'
+2025-12-01 21:31:41 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'calc'
+2025-12-01 21:31:41 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'calc'
+2025-12-01 21:31:57 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'dort'
+2025-12-01 21:31:57 [main] WARN  com.org.insurance.ui.InsuranceMenu - Користувач ввів невідому команду: 'dort'
+2025-12-01 21:31:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'sort'
+2025-12-01 21:31:59 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'sort'
+2025-12-01 21:32:05 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:32:05 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:32:12 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'remove'
+2025-12-01 21:32:12 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'remove'
+2025-12-01 21:32:29 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:32:29 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:32:45 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'delete'
+2025-12-01 21:32:45 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'delete'
+2025-12-01 21:32:51 [main] INFO  com.org.insurance.ui.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 21:32:51 [main] INFO  com.org.insurance.ui.InsuranceMenu - Виконання команди 'show'
+2025-12-01 21:33:04 [main] INFO  com.org.insurance.ui.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 21:33:04 [main] INFO  com.org.insurance.ui.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 21:33:04 [main] INFO  com.org.insurance.Main - Нормальне завершення роботи меню
+2025-12-01 21:33:04 [main] INFO  com.org.insurance.Main - === Програма MavenCW завершилася ===
+2025-12-01 21:59:28 INFO  c.o.i.Main - === Старт програми MavenCW ===
+2025-12-01 21:59:28 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 21:59:28 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 21:59:34 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 21:59:34 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'load'
+2025-12-01 22:00:12 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:/Users/user/OneDrive/Desktop/деревативи/битийфайл.bin'
+2025-12-01 22:00:12 ERROR c.o.i.i.FileManager - Не вдалося завантажити файл деривативу 'C:/Users/user/OneDrive/Desktop/деревативи/битийфайл.bin'
+java.io.EOFException
+	at java.base/java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2813)
+	at java.base/java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3310)
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:912)
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:386)
+	at com.org.insurance.io.FileManager.loadDerivative(FileManager.java:71)
+	at com.org.insurance.ui.command.LoadFromFileCommand.execute(LoadFromFileCommand.java:29)
+	at com.org.insurance.ui.InsuranceMenu.executeCommand(InsuranceMenu.java:75)
+	at com.org.insurance.ui.InsuranceMenu.run(InsuranceMenu.java:51)
+	at com.org.insurance.Main.main(Main.java:15)
+2025-12-01 22:04:08 INFO  c.o.i.Main - === Старт програми MavenCW ===
+2025-12-01 22:04:08 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:04:08 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:04:15 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'reate'
+2025-12-01 22:04:15 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'reate'
+2025-12-01 22:04:17 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'create'
+2025-12-01 22:04:17 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'create'
+2025-12-01 22:05:44 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 22:05:44 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'add'
+2025-12-01 22:07:51 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 22:07:51 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'add'
+2025-12-01 22:08:57 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 22:08:57 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'add'
+2025-12-01 22:10:16 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'shoe'
+2025-12-01 22:10:16 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'shoe'
+2025-12-01 22:10:18 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 22:10:18 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'show'
+2025-12-01 22:10:24 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'create'
+2025-12-01 22:10:24 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'create'
+2025-12-01 22:10:39 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 22:10:39 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'add'
+2025-12-01 22:11:39 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'add'
+2025-12-01 22:11:39 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'add'
+2025-12-01 22:12:54 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 22:12:54 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'show'
+2025-12-01 22:13:13 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:13:13 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:14:37 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'Dmytro Kipen' у файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipen'
+2025-12-01 22:14:37 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipen'
+2025-12-01 22:14:45 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:14:45 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:15:19 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'Ivan Saenko' у файл 'C:/Users/user/OneDrive/Desktop/деревативи/ivansaenko'
+2025-12-01 22:15:19 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:/Users/user/OneDrive/Desktop/деревативи/ivansaenko'
+2025-12-01 22:20:13 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:20:13 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:20:34 INFO  c.o.i.i.FileManager - Експорт деривативи 'Dmytro Kipen' у текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvit'
+2025-12-01 22:20:34 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvit' успішно завершено
+2025-12-01 22:20:39 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:20:39 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:20:54 INFO  c.o.i.i.FileManager - Експорт деривативи 'Ivan Saenko' у текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/ivansaenkozvit'
+2025-12-01 22:20:54 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/ivansaenkozvit' успішно завершено
+2025-12-01 22:20:59 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:20:59 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:20:59 INFO  c.o.i.Main - Нормальне завершення роботи меню
+2025-12-01 22:20:59 INFO  c.o.i.Main - === Програма MavenCW завершилася ===
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 22:26:14 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:26:14 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:26:14 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'SaveMe' у файл 'C:\Users\user\AppData\Local\Temp\junit5230643196680181526\portfolio.bin'
+2025-12-01 22:26:14 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:\Users\user\AppData\Local\Temp\junit5230643196680181526\portfolio.bin'
+2025-12-01 22:26:14 INFO  c.o.i.i.FileManager - Експорт деривативи 'SaveMe' у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit12189053850896315324\portfolio.txt'
+2025-12-01 22:26:14 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:\Users\user\AppData\Local\Temp\junit12189053850896315324\portfolio.txt' успішно завершено
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'definitely-no-such-file-123456789.der'
+2025-12-01 22:26:15 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'definitely-no-such-file-123456789.der'
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Експорт деривативи 'Empty derivative' у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-2473163814286252229\empty.txt'
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-2473163814286252229\empty.txt' успішно завершено
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'Test derivative' у файл 'C:\Users\user\AppData\Local\Temp\fm-test-1426700320385284758\derivative.bin'
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:\Users\user\AppData\Local\Temp\fm-test-1426700320385284758\derivative.bin'
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-1426700320385284758\derivative.bin'
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Дериватив 'Test derivative' успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\fm-test-1426700320385284758\derivative.bin'
+2025-12-01 22:26:15 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-1979954234402081295\no-such-file.bin'
+2025-12-01 22:26:15 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\fm-test-1979954234402081295\no-such-file.bin'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'abrakadabra'
+2025-12-01 22:28:51 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'abrakadabra'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'testcmd'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'testcmd'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'help'
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:28:51 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'SaveMe' у файл 'C:\Users\user\AppData\Local\Temp\junit6619956903174657126\portfolio.bin'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:\Users\user\AppData\Local\Temp\junit6619956903174657126\portfolio.bin'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Експорт деривативи 'SaveMe' у текстовий файл 'C:\Users\user\AppData\Local\Temp\junit16918469954393576440\portfolio.txt'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:\Users\user\AppData\Local\Temp\junit16918469954393576440\portfolio.txt' успішно завершено
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'definitely-no-such-file-123456789.der'
+2025-12-01 22:28:51 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'definitely-no-such-file-123456789.der'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Експорт деривативи 'Empty derivative' у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-8950969829207777837\empty.txt'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-8950969829207777837\empty.txt' успішно завершено
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'Test derivative' у файл 'C:\Users\user\AppData\Local\Temp\fm-test-1392663536595153475\derivative.bin'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:\Users\user\AppData\Local\Temp\fm-test-1392663536595153475\derivative.bin'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-1392663536595153475\derivative.bin'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Дериватив 'Test derivative' успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\fm-test-1392663536595153475\derivative.bin'
+2025-12-01 22:28:51 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-5458608175803216574\no-such-file.bin'
+2025-12-01 22:28:51 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\fm-test-5458608175803216574\no-such-file.bin'
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Експорт деривативи 'Empty derivative' у текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-9692444087436607538\empty.txt'
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:\Users\user\AppData\Local\Temp\fm-test-9692444087436607538\empty.txt' успішно завершено
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Спроба зберегти дериватив 'Test derivative' у файл 'C:\Users\user\AppData\Local\Temp\fm-test-7536078792145227511\derivative.bin'
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Дериватив успішно збережено у 'C:\Users\user\AppData\Local\Temp\fm-test-7536078792145227511\derivative.bin'
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-7536078792145227511\derivative.bin'
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Дериватив 'Test derivative' успішно завантажено з файлу 'C:\Users\user\AppData\Local\Temp\fm-test-7536078792145227511\derivative.bin'
+2025-12-01 22:29:00 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:\Users\user\AppData\Local\Temp\fm-test-6786594557810914375\no-such-file.bin'
+2025-12-01 22:29:00 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'C:\Users\user\AppData\Local\Temp\fm-test-6786594557810914375\no-such-file.bin'
+2025-12-01 22:29:05 INFO  c.o.i.Main - === Старт програми MavenCW ===
+2025-12-01 22:29:05 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:29:05 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:29:09 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 22:29:09 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'load'
+2025-12-01 22:29:48 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipen'
+2025-12-01 22:29:48 INFO  c.o.i.i.FileManager - Дериватив 'Dmytro Kipen' успішно завантажено з файлу 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipen'
+2025-12-01 22:29:56 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'show'
+2025-12-01 22:29:56 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'show'
+2025-12-01 22:30:01 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:30:01 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:30:18 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:30:18 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:30:29 INFO  c.o.i.i.FileManager - Експорт деривативи 'Dmytro Kipen' у текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvitnew'
+2025-12-01 22:30:29 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvitnew' успішно завершено
+2025-12-01 22:34:30 INFO  c.o.i.Main - === Старт програми MavenCW ===
+2025-12-01 22:34:30 INFO  c.o.i.u.InsuranceMenu - Ініціалізовано InsuranceMenu, зареєстровано 10 команд(и)
+2025-12-01 22:34:30 INFO  c.o.i.u.InsuranceMenu - Початок роботи меню страхування
+2025-12-01 22:34:37 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 22:34:37 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'load'
+2025-12-01 22:34:38 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'package com.org.insurance.io;'
+2025-12-01 22:34:38 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'package com.org.insurance.io;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import com.org.insurance.domain.derivative;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import com.org.insurance.domain.derivative;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import com.org.insurance.domain.obligation;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import com.org.insurance.domain.obligation;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import org.junit.jupiter.api.aftereach;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import org.junit.jupiter.api.aftereach;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import org.junit.jupiter.api.beforeeach;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import org.junit.jupiter.api.beforeeach;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import org.junit.jupiter.api.displayname;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import org.junit.jupiter.api.displayname;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import org.junit.jupiter.api.test;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import org.junit.jupiter.api.test;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import java.io.ioexception;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import java.io.ioexception;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import java.nio.file.*;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import java.nio.file.*;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import java.util.*;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import java.util.*;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'import static org.junit.jupiter.api.assertions.*;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'import static org.junit.jupiter.api.assertions.*;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'class filemanagertest {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'class filemanagertest {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'private path tempdir;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'private path tempdir;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'private filemanager filemanager;'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'private filemanager filemanager;'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '/**'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '/**'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '* заглушка для obligation, щоб не запускати інтерактивний scanner.'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '* заглушка для obligation, щоб не запускати інтерактивний scanner.'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '*/'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '*/'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'static class testobligationstub extends obligation {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'static class testobligationstub extends obligation {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'public testobligationstub(string name, double insuredamount) {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'public testobligationstub(string name, double insuredamount) {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'super(name, insuredamount, 1.0, 12, 0.05, 0.1, 1000.0);'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'super(name, insuredamount, 1.0, 12, 0.05, 0.1, 1000.0);'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@override'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@override'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'public void setspecificfields(java.util.scanner in) {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'public void setspecificfields(java.util.scanner in) {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '// нічого не робимо'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '// нічого не робимо'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@beforeeach'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@beforeeach'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'void setup() throws ioexception {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'void setup() throws ioexception {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'tempdir = files.createtempdirectory("fm-test-");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'tempdir = files.createtempdirectory("fm-test-");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'filemanager = new filemanager();'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'filemanager = new filemanager();'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@aftereach'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@aftereach'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'void teardown() throws ioexception {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'void teardown() throws ioexception {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'if (tempdir != null && files.exists(tempdir)) {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'if (tempdir != null && files.exists(tempdir)) {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'files.walk(tempdir)'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'files.walk(tempdir)'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '.sorted(comparator.reverseorder())'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '.sorted(comparator.reverseorder())'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '.foreach(p -> {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '.foreach(p -> {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'try {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'try {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'files.deleteifexists(p);'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'files.deleteifexists(p);'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '} catch (ioexception ignored) {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '} catch (ioexception ignored) {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '});'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '});'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@test'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@test'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@displayname("savederivative + loadderivative: збереження і відновлення працюють")'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@displayname("savederivative + loadderivative: збереження і відновлення працюють")'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'void testsaveandload() {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'void testsaveandload() {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'derivative original = new derivative("test derivative");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'derivative original = new derivative("test derivative");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'list<obligation> obligations = new arraylist<>();'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'list<obligation> obligations = new arraylist<>();'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'obligations.add(new testobligationstub("stub", 1234.0));'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'obligations.add(new testobligationstub("stub", 1234.0));'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'original.setobligations(obligations);'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'original.setobligations(obligations);'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'path file = tempdir.resolve("derivative.bin");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'path file = tempdir.resolve("derivative.bin");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'filemanager.savederivative(original, file.tostring());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'filemanager.savederivative(original, file.tostring());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'derivative loaded = filemanager.loadderivative(file.tostring());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'derivative loaded = filemanager.loadderivative(file.tostring());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'assertnotnull(loaded);'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'assertnotnull(loaded);'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'assertequals(original.getname(), loaded.getname());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'assertequals(original.getname(), loaded.getname());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'assertnotnull(loaded.getobligations());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'assertnotnull(loaded.getobligations());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'assertequals(1, loaded.getobligations().size());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'assertequals(1, loaded.getobligations().size());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'assertequals("stub", loaded.getobligations().get(0).getname());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'assertequals("stub", loaded.getobligations().get(0).getname());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@test'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@test'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@displayname("loadderivative: неіснуючий файл -> runtimeexception з повідомленням про відсутність файлу")'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@displayname("loadderivative: неіснуючий файл -> runtimeexception з повідомленням про відсутність файлу")'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'void testloadnonexistentfile() {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'void testloadnonexistentfile() {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'string filename = tempdir.resolve("no-such-file.bin").tostring();'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'string filename = tempdir.resolve("no-such-file.bin").tostring();'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'runtimeexception ex = assertthrows(runtimeexception.class,'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'runtimeexception ex = assertthrows(runtimeexception.class,'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '() -> filemanager.loadderivative(filename));'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '() -> filemanager.loadderivative(filename));'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'string msg = ex.getmessage().tolowercase();'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'string msg = ex.getmessage().tolowercase();'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'asserttrue(msg.contains("файл не знайдено") || msg.contains("file not found"),'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'asserttrue(msg.contains("файл не знайдено") || msg.contains("file not found"),'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '"повідомлення про помилку має містити інформацію про відсутність файлу");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '"повідомлення про помилку має містити інформацію про відсутність файлу");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@test'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@test'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '@displayname("exporttotext: для порожнього деривативу створюється структурований звіт")'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '@displayname("exporttotext: для порожнього деривативу створюється структурований звіт")'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'void testexportemptyderivative() throws ioexception {'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'void testexportemptyderivative() throws ioexception {'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'derivative derivative = new derivative("empty derivative");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'derivative derivative = new derivative("empty derivative");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'derivative.setobligations(null); // порожній список'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'derivative.setobligations(null); // порожній список'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'path file = tempdir.resolve("empty.txt");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'path file = tempdir.resolve("empty.txt");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'filemanager.exporttotext(derivative, file.tostring());'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'filemanager.exporttotext(derivative, file.tostring());'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'asserttrue(files.exists(file), "файл експорту має бути створений");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'asserttrue(files.exists(file), "файл експорту має бути створений");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'string text = files.readstring(file);'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'string text = files.readstring(file);'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '// заголовок'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '// заголовок'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'asserttrue(text.contains("звіт по деривативу"),'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'asserttrue(text.contains("звіт по деривативу"),'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '"звіт має містити заголовок 'звіт по деривативу'");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '"звіт має містити заголовок 'звіт по деривативу'");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '// назва деривативу'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '// назва деривативу'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'asserttrue(text.contains("назва: empty derivative"),'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'asserttrue(text.contains("назва: empty derivative"),'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '"звіт має містити назву деривативу");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '"звіт має містити назву деривативу");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '// кількість зобов'язань = 0'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '// кількість зобов'язань = 0'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'asserttrue(text.contains("кількість зобов'язань: 0"),'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'asserttrue(text.contains("кількість зобов'язань: 0"),'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '"звіт має вказувати, що зобов'язань 0");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '"звіт має вказувати, що зобов'язань 0");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '// текст про відсутність зобов'язань'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '// текст про відсутність зобов'язань'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'asserttrue(text.contains("зобов'язань немає"),'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: 'asserttrue(text.contains("зобов'язань немає"),'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '"звіт має містити повідомлення про відсутність зобов'язань");'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '"звіт має містити повідомлення про відсутність зобов'язань");'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:38 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: '}'
+2025-12-01 22:34:38 WARN  c.o.i.u.InsuranceMenu - Користувач ввів невідому команду: '}'
+2025-12-01 22:34:42 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 22:34:42 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'load'
+2025-12-01 22:35:33 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvit'
+2025-12-01 22:35:33 WARN  c.o.i.i.FileManager - Файл деривативу не знайдено: 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvit'
+2025-12-01 22:35:45 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'load'
+2025-12-01 22:35:45 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'load'
+2025-12-01 22:35:58 INFO  c.o.i.i.FileManager - Спроба завантажити дериватив із файлу 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipen'
+2025-12-01 22:35:59 INFO  c.o.i.i.FileManager - Дериватив 'Dmytro Kipen' успішно завантажено з файлу 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipen'
+2025-12-01 22:36:04 INFO  c.o.i.u.InsuranceMenu - Отримано команду від користувача: 'save'
+2025-12-01 22:36:04 INFO  c.o.i.u.InsuranceMenu - Виконання команди 'save'
+2025-12-01 22:36:12 INFO  c.o.i.i.FileManager - Експорт деривативи 'Dmytro Kipen' у текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvit'
+2025-12-01 22:36:12 INFO  c.o.i.i.FileManager - Експорт деривативи в текстовий файл 'C:/Users/user/OneDrive/Desktop/деревативи/dimakipenzvit' успішно завершено
+2025-12-01 22:36:59 INFO  c.o.i.u.InsuranceMenu - Користувач обрав вихід із програми (команда 'exit')
+2025-12-01 22:36:59 INFO  c.o.i.u.InsuranceMenu - Завершення роботи меню страхування
+2025-12-01 22:36:59 INFO  c.o.i.Main - Нормальне завершення роботи меню
+2025-12-01 22:36:59 INFO  c.o.i.Main - === Програма MavenCW завершилася ===

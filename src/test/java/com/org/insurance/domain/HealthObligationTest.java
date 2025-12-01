@@ -1,6 +1,5 @@
 package com.org.insurance.domain;
 
-import com.org.insurance.domain.HealthObligation;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

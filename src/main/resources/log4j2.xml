@@ -1,57 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
-
     <Appenders>
 
-        <!-- 1) Лог у файл з ротацією по днях -->
-        <RollingFile name="FileLogger"
-                     fileName="logs/app.log"
-                     filePattern="logs/app-%d{yyyy-MM-dd}.log.gz">
-            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
-            <Policies>
-                <!-- Щоденна ротація -->
-                <TimeBasedTriggeringPolicy interval="1"/>
-            </Policies>
-        </RollingFile>
+        <!-- Вивід у консоль (для зручності під час розробки) -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1.} - %m%n%throwable"/>
+        </Console>
 
-        <!-- 2) Відправка критичних помилок на email -->
+        <!-- Логи у файл -->
+        <File name="FileAppender" fileName="logs/app.log" append="true">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1.} - %m%n%throwable"/>
+        </File>
+
+        <!-- SMTP-апендер: надсилає лист при ERROR і вище -->
         <SMTP name="EmailAppender"
-              to="admin@example.com"
-              from="logger@example.com"
+              to="yaroslav.basarab@gmail.com"
+              from="yaroslav.schedriy@gmail.com"
               subject="CRITICAL error in MavenCW app"
-              smtpHost="smtp.example.com"
-              smtpPort="587"
-              smtpProtocol="smtp"
-              username="logger@example.com"
-              password="PASSWORD"
-              bufferSize="512">
-            <!-- Формат листа -->
+              smtpHost="smtp.gmail.com"
+              smtpPort="465"
+              smtpProtocol="smtps"
+              smtpUsername="yaroslav.schedriy@gmail.com"
+              smtpPassword="rkke irso gpjd ljpg"
+              bufferSize="1"
+              smtpDebug="false"
+              ignoreExceptions="false">
+
+            <!-- Тіло листа: повідомлення + стек трейc -->
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c - %m%n%throwable"/>
-            <!-- Відправляємо тільки ERROR і вище -->
+
+            <!-- Фільтр: відправляємо тільки ERROR і вище -->
             <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
         </SMTP>
-
-        <!-- (Опційно) Консоль -->
-        <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{HH:mm:ss} %-5p %c{1} - %msg%n"/>
-        </Console>
 
     </Appenders>
 
     <Loggers>
-        <!-- Можеш при бажанні виділити логер тільки для свого пакету -->
+        <!-- Логер для всього твого додатку -->
         <Logger name="com.org.insurance" level="info" additivity="false">
-            <AppenderRef ref="FileLogger"/>
-            <AppenderRef ref="EmailAppender"/>
             <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+            <AppenderRef ref="EmailAppender"/>
         </Logger>
 
-        <!-- Root, якщо щось інше залогується -->
-        <Root level="warn">
-            <AppenderRef ref="FileLogger"/>
-            <AppenderRef ref="EmailAppender"/>
+        <!-- Кореневий логер (на всякий випадок) -->
+        <Root level="info">
             <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+            <AppenderRef ref="EmailAppender"/>
         </Root>
     </Loggers>
-
 </Configuration>

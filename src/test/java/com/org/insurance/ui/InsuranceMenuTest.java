@@ -1,9 +1,8 @@
 package com.org.insurance.ui;
 
-import com.org.insurance.domain.Derivative;
-import com.org.insurance.ui.InsuranceMenu;
 import com.org.insurance.ui.command.Command;
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -11,10 +10,11 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 import java.io.PrintStream;
-import java.util.List;
 import java.util.Scanner;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.ArgumentMatchers.*;
+import static org.mockito.Mockito.*;
 
 class InsuranceMenuTest {
 
@@ -22,28 +22,9 @@ class InsuranceMenuTest {
     private final PrintStream originalOut = System.out;
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
-    // --- Stub Command (Заглушка) ---
-    // Проста команда, яка просто фіксує факт свого виконання
-    static class MockCommand implements Command {
-        boolean wasExecuted = false;
-
-        @Override
-        public void execute(Scanner in, List<Derivative> derivatives) {
-            wasExecuted = true;
-            System.out.println("Mock executed!");
-        }
-
-        @Override
-        public String getDescription() {
-            return "Test mock command";
-        }
-    }
-    // -------------------------------
-
-    // Встановлюємо перехоплення System.out перед кожним тестом
-    // (System.in ми будемо налаштовувати окремо в кожному тесті)
-    @org.junit.jupiter.api.BeforeEach
+    @BeforeEach
     void setUpOutput() {
+        outContent.reset();
         System.setOut(new PrintStream(outContent));
     }
 
@@ -56,24 +37,20 @@ class InsuranceMenuTest {
     @Test
     @DisplayName("run() має завершуватись при команді 'exit'")
     void testExitCommand() {
-        // Підготовка вводу: користувач вводить "exit"
         String input = "exit\n";
         System.setIn(new ByteArrayInputStream(input.getBytes()));
 
-        // Створюємо меню ПІСЛЯ того, як підмінили System.in
         InsuranceMenu menu = new InsuranceMenu();
-
-        // Запускаємо
         menu.run();
 
         String output = outContent.toString();
-        assertTrue(output.contains("Завершення роботи..."), "Має вивести повідомлення про вихід");
+        assertTrue(output.contains("Завершення роботи..."),
+                "Має вивести повідомлення про вихід");
     }
 
     @Test
     @DisplayName("executeCommand: Невідома команда виводить помилку, але не крешить програму")
     void testUnknownCommand() {
-        // Вводимо сміття, потім exit
         String input = "abrakadabra\nexit\n";
         System.setIn(new ByteArrayInputStream(input.getBytes()));
 
@@ -81,7 +58,8 @@ class InsuranceMenuTest {
         menu.run();
 
         String output = outContent.toString();
-        assertTrue(output.contains("Невідома команда"), "Має повідомити про невідому команду");
+        assertTrue(output.contains("Невідома команда"),
+                "Має повідомити про невідому команду");
     }
 
     @Test
@@ -94,55 +72,60 @@ class InsuranceMenuTest {
         menu.run();
 
         String output = outContent.toString();
-        assertTrue(output.contains("ОПИС КОМАНД"), "Має бути заголовок опису");
-        assertTrue(output.contains("exit — вихід"), "Має бути опис команди exit");
+
+        // Заголовок опису команд
+        assertTrue(output.contains("ОПИС КОМАНД"),
+                "Має бути заголовок 'ОПИС КОМАНД'");
+
+        // Рядок із додатковими командами, які не в мапі (help/exit)
+        assertTrue(output.contains("Доступні також: help, exit"),
+                "Має бути рядок 'Доступні також: help, exit'");
     }
 
     @Test
-    @DisplayName("registerCommand: Додана команда успішно виконується через run()")
+    @DisplayName("registerCommand: Додана команда успішно виконується через run() (Mockito)")
     void testCustomCommandExecution() {
-        // Сценарій:
-        // 1. Вводимо "testcmd" (наша кастомна команда)
-        // 2. Вводимо "exit"
+        // користувач вводить нашу кастомну команду, потім exit
         String input = "testcmd\nexit\n";
         System.setIn(new ByteArrayInputStream(input.getBytes()));
 
         InsuranceMenu menu = new InsuranceMenu();
 
-        // Створюємо нашу заглушку
-        MockCommand mock = new MockCommand();
-        // Реєструємо її в меню
-        menu.registerCommand("testcmd", mock);
+        // Mockito-мок замість ручної MockCommand
+        Command mockCommand = mock(Command.class);
+        menu.registerCommand("testcmd", mockCommand);
 
         menu.run();
 
-        // Перевіряємо, чи виконалась команда
-        assertTrue(mock.wasExecuted, "Метод execute() кастомної команди мав викликатись");
-        assertTrue(outContent.toString().contains("Mock executed!"), "Вивід команди має потрапити в консоль");
+        // перевіряємо, що execute() реально викликався рівно один раз
+        verify(mockCommand, times(1))
+                .execute(any(Scanner.class), anyList());
     }
 
     @Test
-    @DisplayName("Команди мають бути регістронезалежними (UpperCase)")
+    @DisplayName("Команди мають бути регістронезалежними (UpperCase) (Mockito)")
     void testCaseInsensitive() {
-        // Вводимо команду великими літерами "TESTCMD"
+        // Вводимо команду великими літерами, exit теж великими
         String input = "TESTCMD\nEXIT\n";
         System.setIn(new ByteArrayInputStream(input.getBytes()));
 
         InsuranceMenu menu = new InsuranceMenu();
 
-        MockCommand mock = new MockCommand();
-        // Реєструємо маленькими, а вводимо великими
-        menu.registerCommand("testcmd", mock);
+        // реєструємо команду в нижньому регістрі
+        Command mockCommand = mock(Command.class);
+        menu.registerCommand("testcmd", mockCommand);
 
         menu.run();
 
-        assertTrue(mock.wasExecuted, "Команда повинна працювати незалежно від регістру вводу");
+        // якщо все окей з Locale.ROOT та toLowerCase,
+        // ця команда повинна бути викликана
+        verify(mockCommand, times(1))
+                .execute(any(Scanner.class), anyList());
     }
 
     @Test
     @DisplayName("Пустий ввід (Enter) ігнорується і цикл продовжується")
     void testEmptyInput() {
-        // Enter -> Enter -> exit
         String input = "\n\nexit\n";
         System.setIn(new ByteArrayInputStream(input.getBytes()));
 
@@ -150,17 +133,18 @@ class InsuranceMenuTest {
         menu.run();
 
         String output = outContent.toString();
-        // Просто перевіряємо, що вийшли нормально
-        assertTrue(output.contains("Завершення роботи..."));
+        assertTrue(output.contains("Завершення роботи..."),
+                "Програма має коректно завершити роботу після 'exit'");
     }
 
     @Test
     @DisplayName("registerCommand кидає помилку при null аргументах")
     void testRegisterNulls() {
-        // Тут не треба setIn, бо ми не запускаємо run()
-        InsuranceMenu menu = new InsuranceMenu(); // Створиться зі стандартним System.in (пусте або старе значення)
+        InsuranceMenu menu = new InsuranceMenu();
 
-        assertThrows(NullPointerException.class, () -> menu.registerCommand(null, new MockCommand()));
-        assertThrows(NullPointerException.class, () -> menu.registerCommand("test", null));
+        assertThrows(NullPointerException.class,
+                () -> menu.registerCommand(null, mock(Command.class)));
+        assertThrows(NullPointerException.class,
+                () -> menu.registerCommand("test", null));
     }
 }

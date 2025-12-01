@@ -8,14 +8,13 @@ public class Main {
 
     private static final Logger log = LogManager.getLogger(Main.class);
 
-    public static void main(String[] args) {
+    static void main() {
         log.info("=== Старт програми MavenCW ===");
 
         try {
             new InsuranceMenu().run();
             log.info("Нормальне завершення роботи меню");
         } catch (Exception e) {
-            // Це піде у файл + на email
             log.error("Несподівана критична помилка в main()", e);
         }
 
