@@ -21,7 +21,7 @@
               smtpPort="465"
               smtpProtocol="smtps"
               smtpUsername="yaroslav.schedriy@gmail.com"
-              smtpPassword="rkke irso gpjd ljpg"
+              smtpPassword=""
               bufferSize="1"
               smtpDebug="false"
               ignoreExceptions="false">
