@@ -5,14 +5,12 @@ import lombok.Setter;
 
 import java.util.Scanner;
 
+@Setter
+@Getter
 public class HealthObligation extends Obligation {
 
     private String coverageType;
-    @Getter
-    @Setter
     private boolean hasPreExistingConditions;
-    @Getter
-    @Setter
     private double annualLimit;
 
     public HealthObligation(){
@@ -64,8 +62,5 @@ public class HealthObligation extends Obligation {
             try { this.annualLimit = Double.parseDouble(lim); } catch (NumberFormatException ignored) {}
         }
     }
-
-    public String getCoverageType() { return coverageType; }
-    public void setCoverageType(String coverageType) { this.coverageType = coverageType; }
 
 }

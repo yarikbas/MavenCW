@@ -1,6 +1,7 @@
 package com.org.insurance.ui;
 
 import com.org.insurance.domain.Derivative;
+import com.org.insurance.ui.InsuranceMenu;
 import com.org.insurance.ui.command.Command;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.DisplayName;

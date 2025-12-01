@@ -1,5 +1,6 @@
 package com.org.insurance.domain;
 
+import com.org.insurance.domain.Obligation;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayInputStream;

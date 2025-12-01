@@ -1,8 +1,8 @@
 package com.org.insurance.ui;
 
 import com.org.insurance.domain.Derivative;
-import com.org.insurance.domain.Obligation;
 import com.org.insurance.domain.InsuranceCalculator;
+import com.org.insurance.domain.Obligation;
 import com.org.insurance.domain.RiskComparator;
 
 import java.util.Collections;
@@ -219,7 +219,7 @@ public final class ConsolePrinter {
             return;
         }
 
-        java.util.List<Obligation> obligations = d.getObligations();
+        List<Obligation> obligations = d.getObligations();
         if (obligations == null || obligations.isEmpty()) {
             System.out.println("У деривативі немає облігацій.");
             return;
@@ -268,7 +268,7 @@ public final class ConsolePrinter {
             return;
         }
 
-        java.util.List<Obligation> obligations = d.getObligations();
+        List<Obligation> obligations = d.getObligations();
         if (obligations == null || obligations.isEmpty()) {
             System.out.println("У деривативі немає облігацій.");
             return;

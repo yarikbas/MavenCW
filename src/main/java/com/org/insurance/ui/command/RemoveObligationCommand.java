@@ -5,7 +5,6 @@ import com.org.insurance.domain.Obligation;
 import com.org.insurance.ui.ConsolePrinter;
 
 import java.util.*;
-import java.util.Scanner;
 
 public class RemoveObligationCommand implements Command {
     @Override public String getDescription() {

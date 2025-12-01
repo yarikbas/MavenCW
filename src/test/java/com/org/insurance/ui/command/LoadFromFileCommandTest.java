@@ -3,13 +3,17 @@ package com.org.insurance.ui.command;
 import com.org.insurance.domain.Derivative;
 import com.org.insurance.domain.Obligation;
 import com.org.insurance.io.FileManager;
+import com.org.insurance.ui.command.LoadFromFileCommand;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 
-import java.io.*;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+import java.io.Serial;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;

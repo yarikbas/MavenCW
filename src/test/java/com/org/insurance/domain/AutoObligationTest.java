@@ -1,5 +1,6 @@
 package com.org.insurance.domain;
 
+import com.org.insurance.domain.AutoObligation;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
